@@ -1,0 +1,25 @@
+h2{
+    display: inline;
+}
+
+#root{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+#board{
+    margin-top:10px;
+    margin-bottom:10px;
+    
+    width: 300px;
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+}
+
+#board button{
+    width: 100px;
+    height: 100px;
+    font-size: larger;
+}

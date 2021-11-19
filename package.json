@@ -1,0 +1,23 @@
+{
+  "name": "javascript-html-css-flex-tictactoe-ido-paz",
+  "version": "1.0.0",
+  "description": "[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6167583&assignment_repo_type=AssignmentRepo)\r # Javascript HTML-CSS flex TicTacToe\r *TicTacToe is a turn based game with 2 players , the winner is the one that successeded to mark a series of 3 identical (vertical OR horizontal OR diagonal) selection, a player cannot change existing cell marking, if there is no cell to mark , the game is a draw.\r 1. Create tictactoe.js file with all the functionality needed to attach to the exiting html and to create a working TicTacToe game.\r 2. Use the existing user interface to create a working TicTacToe game and don't change the HTML, CSS files staticly.\r 3. The start button always restarts the game.",
+  "main": "tictactoe.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ido-paz: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@github.com/Ido-Paz-Teaching/javascript-html-css-flex-tictactoe-ido-paz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ido-Paz-Teaching/javascript-html-css-flex-tictactoe-ido-paz/issues"
+  },
+  "homepage": "https://github.com/Ido-Paz-Teaching/javascript-html-css-flex-tictactoe-ido-paz#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
